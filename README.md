@@ -12,7 +12,3 @@ Assignment 1: The assignment is introductory to get used to the Python programmi
   - Exercise 4 -The program reads a natural number and forms another number from number's digits found at odd positions;
 
   - Exercise 5 - Verify if a given number is special;
-
-
-Assignment 2:
-
