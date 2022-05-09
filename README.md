@@ -26,7 +26,7 @@ Assignment 4 - The application manages several vectors and has the following fea
        - minimum of a vector;
        - maximum of a vector;
      
-   - The program manages the points in class "VectorRepository" and allows operations such as:
+   - The program manages the vectors in class "VectorRepository" and allows operations such as:
     
         1.Add a vector to the repository;
       
